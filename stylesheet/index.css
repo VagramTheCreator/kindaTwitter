@@ -1,4 +1,118 @@
-body{
-  background-color: rgb(21, 32, 43);
-  color: #fff;
+
+body {
+	background: #15202b !important;
+	color: white !important;
+	margin-left: 3em !important;
 }
+
+.left_column_border {
+	border-right: 1px solid rgb(55,68,78);
+}
+
+.col-2 img {
+	width: 1.5em;
+}
+
+.profile img {
+	width: 1.8em;
+	border-radius: 50px;
+}
+
+.profile span {
+	margin-right: 0.8em !important;
+}
+
+.bookmark img {
+	width: 1.2em;
+}
+
+.logo img {
+	width: 2em;
+	padding-bottom: 5px;
+}
+
+.logo {
+	width: 26% !important;
+}
+
+.tweet {
+	border-radius: 999px !important;
+	font-weight: bold !important;
+	margin-top: 1.5em;
+	width: 100%;
+	height: 5em;
+}
+
+.home {
+	font-size: 25px;
+	font-weight: bold;
+}
+
+.star img {
+	width: 1em;
+}
+
+.star {
+	background-color: transparent !important;
+	border-color: transparent !important;
+	float: right;
+}
+
+.centre_col {
+	border-right: 1px solid rgb(55,68,78);
+	border-left: 1px solid rgb(55,68,78);
+	margin-top: 1em;
+}
+
+.right_col {
+	margin-top: 1em;
+}
+
+.search input {
+	width: 93%;
+	border-radius: 999px !important;
+	background-color: rgb(36, 51, 65);
+	border-color: transparent;
+}
+
+.cog button {
+	width: 10%;
+	background-color: transparent;
+	border-color: transparent;
+	float: right;
+	margin-right: 5px;
+}
+
+.cog img {
+	margin-top: 9px;
+}
+
+.top_right_heading {
+	border-bottom: 1px solid rgb(55,68,78);
+	height: 3em;
+}
+
+.right_menu {
+	background-color: rgb(27,39,51);
+	width: 93%;
+	border-radius: 15px !important;
+	height: 35.5em;
+}
+
+.trend {
+	margin-top: 0.5em;
+}
+
+.show_more span {
+	font-size: 16px;
+	color: rgb(46,161,234);
+}
+
+.right_down_menu {
+	background-color: rgb(27,39,51);
+	width: 100%;
+	border-radius: 10px !important;
+	margin-top: 2em;
+	height: 20em;
+}
+

@@ -1,0 +1,78 @@
+.btn_left_col {
+	background-color: transparent !important;
+	border-color: transparent !important;
+	border-radius: 999px !important;
+	width: 100%;
+	height: 12%;
+	text-align: left !important;
+	vertical-align:middle !important;
+	margin-top: 0.8em;
+}
+
+.btn_left_col span {
+	font-size: 22px;
+	font-weight: bold;
+	margin-left: 1em;
+	vertical-align:middle !important
+}
+
+.btn:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+.right_header_name {
+	font-size: 20px;
+	font-weight: bold;
+	margin-top: 1em;
+	border-color: transparent;
+	margin-left: 0.1em;
+}
+
+.right_header_name span {
+	margin-left: 10px;
+}
+
+.place span {
+	font-size: 14px;
+	color: rgb(105,117,129);
+	margin-left: 1em;
+}
+
+.name_trend span {
+	font-size: 20px;
+	color: white;
+	font-weight: bold;
+	margin-left: 0.6em;
+}
+
+.tweets_counter {
+	border-bottom: 1px solid rgb(55,68,78);
+}
+
+.accounts img {
+	width: 3em;
+	border-radius: 30px;
+	margin-left: 0.5em;
+}
+
+.accounts {
+	border-bottom: 1px solid rgb(55,68,78);
+	margin-top: 0.5em;
+}
+
+.user_name span {
+	font-size: 18px;
+	color: white;
+	font-weight: bold;
+}
+
+.user_name img {
+	width: 1.5em;
+	fill: transparent;
+}
+
+.user_nickname {
+	font-size: 14px;
+	color: rgb(105,117,129);
+}
